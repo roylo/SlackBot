@@ -1,0 +1,24 @@
+{
+  "name" : "intowow-slack-bot",
+  "version" : "0.0.1",
+  "description" : "intowow slackbot that will remind members for event",
+  "private" : true,
+  "author" : {
+    "name" : "Roy Lo",
+    "email" : "roylo@intowow.com"
+  },
+  "contributors" : [
+    {
+      "name" : "Roy Lo",
+      "email" : "roylo@intowow.com"
+    }
+  ],
+  "dependencies" : {
+    "cron"  : "*",
+    "request"  : "*",
+    "async"  : "*",
+    "time"  : "*"
+  },
+  "devDependencies" : {},
+  "scripts" : {}
+}

@@ -1,0 +1,4 @@
+{
+    "cronSetting" : "0 0 13 * * 1-5",
+    "payload" : {"channel" : "#general", "username" : "intowow-bot", "text" : "肚子餓了~ 該去吃飯囉!", "icon_emoji" : ":trollface:"}
+}
